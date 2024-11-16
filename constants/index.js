@@ -3,33 +3,39 @@ export const exploreWorlds = [
     id: 'world-1',
     imgUrl: '/planet-01.png',
     title: 'NammaMiles',
+    link:'https://car-booking-tau.vercel.app/'
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
     title: 'NammaBites',
+    link:'https://namma-bites.vercel.app/'
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'NammaTails',
+    title: 'NammaTales',
+    link:'https://travel-sigma-sage.vercel.app/'
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
     title: 'NammaSphere',
+    link:'https://travel-sigma-sage.vercel.app/'
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
     title: 'NammaNomad',
+    link: 'https://tic-tac-toe-seven-flax.vercel.app/'
   },
 ];
 
 export const startingFeatures = [
-  'hello',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+
+  'Chit-Chat: For casual conversations and local interactions',
+  'Grub Talk: For food-related terms and dining lingo',
+  'Wanderlust: For travel and navigation-related expressions',
 ];
 
 export const newFeatures = [
@@ -50,7 +56,7 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'The launch of bengaluru',
     subtitle:
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
@@ -70,19 +76,19 @@ export const insights = [
 
 export const socials = [
   {
-    name: 'twitter',
-    url: '/twitter.svg',
+    name: 'linkedin1',
+    url: 'https://www.linkedin.com/in/bhaanavee-c-s-81a316295/',
   },
   {
-    name: 'linkedin',
-    url: '/linkedin.svg',
+    name: 'linkedin2',
+    url: 'https://www.linkedin.com/in/greeshma-v-0b25282b6/',
   },
   {
-    name: 'instagram',
-    url: '/instagram.svg',
+    name: 'linkedin3',
+    url: 'https://www.linkedin.com/in/himanshi-singh-871360309/',
   },
   {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: 'linkedin4',
+    url: 'https://www.linkedin.com/in/vaishnavi-reddy-a70a36260/',
   },
 ];
